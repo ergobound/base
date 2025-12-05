@@ -1,0 +1,3 @@
+https://mystmd.org/guide/deployment-github-pages
+
+pip install mystmd
