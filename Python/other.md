@@ -1,4 +1,4 @@
-# Разное `py`
+# Python разное
 
 ## Создание виртуального окружения venv
 `python3 -m venv ENV_NAME`  
